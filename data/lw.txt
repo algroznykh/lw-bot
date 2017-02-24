@@ -3810,7 +3810,7 @@ It's looking more likely to be formal actually.
 
 I suppose if we postulate that Szilard and Rabi did better by correlated dumb luck, then we can avoid learning anything from this example, yes.
 
-Because they didn't know if fission produced enough prompt neutrons, which is clear from the quoted passage, and probably also because Fermi has estimated that there's on the order of 10 other propositions about the results from fission which he, if presented with them by an equally enthusiastic proponent, would find comparably plausible. I'm thinking that in the alternate realities where fission does something other than producing sufficient number of neutrons (about 3 on the average), you'd assign likewise high number to them by hindsight, with a sum greater than 1 (so stop calling it probability already).
+Because they didn't know if fission produced enough prompt neutrons, which is clear from the quoted passage, and probably also because Fermi has estimated that there's on the order of 10 other propositions about the results from fission which he, if presented with them by an equally enthusiastic proponent, would find comparably plausible. I'm thinking that in the alternate realities where fission does something other than producing sufficient number of neutrons (about 3 on the average), you'd assign likewise high number to them by hindsight, with a sum greater than 1 (so stop calling it probability already).
 
 A clever argument! Why didn't it work on Reality?
 
